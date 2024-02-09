@@ -1,0 +1,12 @@
+.nav-items {
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+}
+
+.icon {
+  position: relative;
+  left: 700px;
+}
+
+
